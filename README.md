@@ -91,13 +91,6 @@ Apply and compare statistical models and machine learning approaches to predict 
 - Machine learning models like **XGBoost** benefit from feature engineering and outperform traditional statistical models for short-term forecasting  
 - Accurate forecasting enables better planning for energy providers and consumers  
 
----
-
-## 📈 Visualizations Sample
-
-| Prophet Forecast | XGBoost Actual vs Predicted |
-|------------------|------------------------------|
-| ![Prophet Forecast](./Output%20Visualizations/prophet_forecast.png) | ![XGBoost Forecast](./Output%20Visualizations/xgboost_forecast.png) |
 
 ---
 
